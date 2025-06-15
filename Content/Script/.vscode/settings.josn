@@ -1,0 +1,16 @@
+{
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.diagnostics.globals": [
+    "UnLua",
+    "UE",
+    "self",
+    "print",
+    "pairs",
+    "ipairs"
+  ],
+  "Lua.workspace.library": [
+    "${workspaceFolder}"
+  ],
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.telemetry.enable": false
+}
